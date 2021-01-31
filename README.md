@@ -11,7 +11,7 @@
   <h3 align="center">Travvy</h3>
 
   <p align="center">
-    A travel site for spontaneous travelers where users can enter specific criteria and get a list of corresponding destinations.
+    A place for travelers to get destination recommendations based on their preferences.
 </p>
 <br />
 
