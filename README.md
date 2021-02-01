@@ -13,7 +13,7 @@
   <p align="center">
     A place for travelers to get destination recommendations based on their preferences.
     <br />
-    <a href="https://www.youtube.com/watch?v=7QZGHH1zijQ&feature=youtu.be">
+    <a href="https://www.youtube.com/watch?v=7QZGHH1zijQ&feature=youtu.be" target="_blank">
       Video Demo
     </a>
 </p>
