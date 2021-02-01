@@ -12,6 +12,10 @@
 
   <p align="center">
     A place for travelers to get destination recommendations based on their preferences.
+    <br />
+    <a href="https://www.youtube.com/watch?v=7QZGHH1zijQ&feature=youtu.be">
+      Video Demo
+    </a>
 </p>
 <br />
 
@@ -61,4 +65,6 @@ Email - contact@michaelrodriguez.dev
 
 Personal Site - https://michaelrodriguez.dev/
 
-Project Link: https://github.com/rodriguez-michael/travel-app
+Project Code Link: https://github.com/rodriguez-michael/travel-app
+
+Project Demo Link: https://www.youtube.com/watch?v=7QZGHH1zijQ&feature=youtu.be
