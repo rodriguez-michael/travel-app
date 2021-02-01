@@ -17,7 +17,6 @@
       Video Demo
     </a>
 </p>
-<br />
 
 
 
@@ -64,7 +63,3 @@ LinkedIn - https://www.linkedin.com/in/rodriguez-michael/
 Email - contact@michaelrodriguez.dev
 
 Personal Site - https://michaelrodriguez.dev/
-
-Project Code Link: https://github.com/rodriguez-michael/travel-app
-
-Project Demo Link: https://www.youtube.com/watch?v=7QZGHH1zijQ&feature=youtu.be
